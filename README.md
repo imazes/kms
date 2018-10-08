@@ -1,0 +1,2 @@
+# kms
+act windows office
